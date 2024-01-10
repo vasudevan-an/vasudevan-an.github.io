@@ -12,7 +12,7 @@ header, nav, main, footer {
 }
 
 header {
-    background: #333;
+    background: #1ABC9C;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -40,7 +40,7 @@ main {
 }
 
 footer {
-    background: #333;
+    background: #1ABC9C;
     color: white;
     text-align: center;
     padding: 10px 0;
