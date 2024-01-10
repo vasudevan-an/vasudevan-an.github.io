@@ -48,3 +48,16 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.profile-photo {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.profile-photo img {
+    width: 150px; /* or any size you prefer */
+    height: auto;
+    border-radius: 50%; /* Optional: if you want a circular profile picture */
+}
+
